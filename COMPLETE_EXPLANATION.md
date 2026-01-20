@@ -2,12 +2,10 @@
 
 ## Quick Summary
 
-You asked three important questions:
 1. **How does @Transactional work?**
 2. **Why doesn't it prevent concurrency issues in multiple microservice instances?**
 3. **How can a queue solve this problem?**
 
-I've created detailed explanations in separate documents. Here's the overview:
 
 ---
 
